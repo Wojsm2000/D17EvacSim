@@ -48,3 +48,7 @@ Model boidów może być adaptowany do symulacji ewakuacji budynków, gdzie ludz
 * Skalowalność: Model może być stosowany zarówno dla małych, jak i dużych grup.
 
 * Elastyczność: Możliwość dodania dodatkowych zasad, takich jak reakcja na zagrożenia czy wpływ architektury budynku.
+
+## Kompleksowa analiza modeli
+
+W 2004 roku pracownicy Uniwersytetu z Daleware będący członkami Centrum Badania Katastrof opublikowali analizę porównującą wybrane modele symulacji ewakuacji budynków.  
