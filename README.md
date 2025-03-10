@@ -49,7 +49,7 @@ Model boidów może być adaptowany do symulacji ewakuacji budynków, gdzie ludz
 
 * Elastyczność: Możliwość dodania dodatkowych zasad, takich jak reakcja na zagrożenia czy wpływ architektury budynku.
 
-## Kompleksowa analiza wczesnych modeli
+## Analiza wczesnych modeli
 
 W 2004 roku pracownicy Uniwersytetu z Daleware będący członkami Centrum Badania Katastrof opublikowali analizę porównującą wybrane modele symulacji ewakuacji budynków (_A Critical Review of Emergency Evacuation Simulation Models_, Gabriel Santos, Benigno E. Aguirre). Badacze zauważyli również, że podejście do człowieka jako elementu ewakuacji zmieniało się na przestrzeni lat.
 
@@ -167,3 +167,36 @@ Umożliwiają symulację zadań, które mogą opóźnić ewakuację.
 * Słabe strony:
 
 Brakuje mechanizmów do symulacji złożonych interakcji społecznych, takich jak tworzenie norm emergentnych czy konflikty między grupami.
+
+
+## Różne metody zbierania danych  
+Badanie z 2022 roku autorstwa Liu C., Liu Z. i Chai Y. (_Review of Virtual Simulation of Crowd Motion for Urban Emergency Management_) również podejmowało tematykę porównań już co prawda bardziej nowoczesnych modeli lecz co ciekawsze sposoby zberania danych do symulacji zachowań tłumów w sytuacjach zagrożenia. Badacze wyszczególnili trzy główne metody.
+
+### 1. **Monitorowanie wideo**  
+- **Zalety**:  
+  - Automatyczne zbieranie danych, długi czas rejestracji.  
+  - Integracja z urządzeniami IoT.  
+- **Wady**:  
+  - Niska jakość danych, brak możliwości prognozowania.  
+- **Przykład**: Algorytm Zhao et al. (2018) z klasteryzacją hierarchiczną.  
+
+### 2. **Ćwiczenia ewakuacyjne**  
+- **Zalety**:  
+  - Realizm scenariuszy, zbieranie danych czasowo-przestrzennych.  
+- **Wady**:  
+  - Wysokie koszty, trudności w śledzeniu uczestników.  
+- **Przykład**: Eksperyment Haghani i Sarvi (2019).  
+
+### 3. **Filmowanie dronami (UAV)**  
+- **Zalety**:  
+  - Niski koszt, wysokiej jakości dane, elastyczność w dużych przestrzeniach.  
+- **Wady**:  
+  - Ograniczony czas lotu, niedojrzałość technologii.  
+
+#### Porównanie metod:  
+| Metoda           | Koszt    | Jakość danych | Skala scenariusza |  
+|------------------|----------|---------------|-------------------|  
+| Monitorowanie    | Średni   | Niska         | Mała              |  
+| Ćwiczenia        | Wysoki   | Wysoka        | Mała              |  
+| Drony            | Niski    | Wysoka        | Duża              |  
+
