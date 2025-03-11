@@ -201,7 +201,7 @@ Badanie z 2022 roku autorstwa Liu C., Liu Z. i Chai Y. (_Review of Virtual Simul
 | Drony            | Niski    | Wysoka        | Duża              |  
 
 
-### Podsumowanie dostępnej literatury z 2020 r.
+## Podsumowanie dostępnej literatury z 2020 r.
 Artykuł autorstwa S. Yang et al z 2020 roku "A review on crowd simulation and modeling" podsumowuje dostępne ówcześnie podejścia do modelowania i symulacji tłumów zarówno w kontekście zastosowania wizualnych efektów w multimediach, jak i urbanistyki oraz ewakuacji w sytuacjach awaryjnych.
 
 ### 1. Główne kategorie modeli symulacji tłumów
@@ -234,39 +234,44 @@ c) Modele mezoskopowe
 * Tłumy społeczno-psychologiczne (Social Psychological crowds)
 
 ### Modele mikroskopowe (zwane też bottom-up) 
--skupiają się na zachowaniach i cechach poszczególnych poszczególnych osób. W tym podejściu ludzie traktowani są jako dyskretne obiekty, na których zachowanie wpływają ich otoczenie i sąsiedzi.
+Skupiają się na zachowaniach i cechach poszczególnych poszczególnych osób. W tym podejściu ludzie traktowani są jako dyskretne obiekty, na których zachowanie wpływają ich otoczenie i sąsiedzi.
 
 Do najważniejszych modeli w tej kategorii należą:
--Social Force Model (SFM) Helbinga et al. z 2000 r. opisujący mechanizmy i dynamikę spanikowanego tłumu, próbującego się ewakuować. To pierwszy model, w którym fizyczne kryteria wykorzystane zostały do opisu mikroskopowego zbiorowiska ludzi. Na zachowanie poszczególnych osób w modelu wpływają zarówno czynniki społeczno-psychologiczne i fizyczne.
--High-density autonomous crowds (HiDAC) model Pelechano et al. z 2007 r. (model agentowy)
--Wagoum et al. proposed an efficient crowd simulation for evacuation assistant integrated with cellular automata 
+
+* Social Force Model (SFM) Helbinga et al. z 2000 r. opisujący mechanizmy i dynamikę spanikowanego tłumu, próbującego się ewakuować. To pierwszy model, w którym fizyczne kryteria wykorzystane zostały do opisu mikroskopowego zbiorowiska ludzi. Na zachowanie poszczególnych osób w modelu wpływają zarówno czynniki społeczno-psychologiczne i fizyczne.
+  
+* High-density autonomous crowds (HiDAC) model Pelechano et al. z 2007 r. (model agentowy)
+  
+* Wagoum et al. proposed an efficient crowd simulation for evacuation assistant integrated with cellular automata 
 
 
 ###  Modele makroskopowe
--tłumy są traktowane jako jednolity, ciągły byt, a ich ruch jest determinowany przez pola potencjału (potential fields) lub dynamikę płynów. Planowanie ścieżek tłumu oraz unikanie kolizji są zarządzane przez globalny solver. Modele te nie skupiają się na szczegółowych interakcjach, przez co każdy wirtualny agent nie uwzględnia interakcji na poziomie indywidualnym między sobą a środowiskiem.
--wykorzystywane głównie do efektów wizualnych dużych zbiorowisk ludzkich
+* tłumy są traktowane jako jednolity, ciągły byt, a ich ruch jest determinowany przez pola potencjału (potential fields) lub dynamikę płynów. Planowanie ścieżek tłumu oraz unikanie kolizji są zarządzane przez globalny solver. Modele te nie skupiają się na szczegółowych interakcjach, przez co każdy wirtualny agent nie uwzględnia interakcji na poziomie indywidualnym między sobą a środowiskiem.
+  
+* wykorzystywane głównie do efektów wizualnych dużych zbiorowisk ludzkich
 
 ### Modele mezoskopowe (symulacje grupowe) 
--Simulation of small social group behaviors in emergency evacuation R. Xie et al. 2016 - model dynamic group behavior
--Social Psychological crowds nawiązują do teorii cech charakteru i zaraźliwości społecznej emocji
--Wykorzystywane są różne modele cech osobowości i emocji, takie jak OCEAN, PEN, OCC (Ortony, Clore, Collins), PAD (Pleasure Arousal Dominance)
--Model ESCAPES zawiera cztery kluczowe cechy (typ agenta, emocje, informacje, interakcje) w celu symulacji zjawisk psychologicznych w sytuacjach ewakuacji.
+* Simulation of small social group behaviors in emergency evacuation R. Xie et al. 2016 - model dynamic group behavior
+  
+*Social Psychological crowds nawiązują do teorii cech charakteru i zaraźliwości społecznej emocji
+*Wykorzystywane są różne modele cech osobowości i emocji, takie jak OCEAN, PEN, OCC (Ortony, Clore, Collins), PAD (Pleasure Arousal Dominance)
+*Model ESCAPES zawiera cztery kluczowe cechy (typ agenta, emocje, informacje, interakcje) w celu symulacji zjawisk psychologicznych w sytuacjach ewakuacji.
 (e.g. People forget theirentrance, First-time visitors, Heightened emotions, Herding behavior, Pre-evacuation delay, Families gather before exiting, Authorities calm people)
--M. Xu et al. Crowd behavior simulation with emotional contagion in unexpected multihazard situations(2019)
--Y. Mao et al. Emotion-based diversity crowd behavior simulation in public emergency (2018)
--Y. Mao et al. Personality trait and group emotion contagion based crowd simulation for emergency evacuation (2018) 
--G. Zhang, D. Lu, H. Liu, Strategies to utilize the positive emotional contagion optimally in crowd evacuation (2018)
+*M. Xu et al. Crowd behavior simulation with emotional contagion in unexpected multihazard situations(2019)
+*Y. Mao et al. Emotion-based diversity crowd behavior simulation in public emergency (2018)
+*Y. Mao et al. Personality trait and group emotion contagion based crowd simulation for emergency evacuation (2018) 
+*G. Zhang, D. Lu, H. Liu, Strategies to utilize the positive emotional contagion optimally in crowd evacuation (2018)
 
 ### Ewaluacja modeli
--W celu ewaluacji i porówniania różnych modeli konieczne jest ujednolicenie kryteriów, co może być problematyczne dla różnych rodzajów modeli.
--Autorzy review proponują ocenę umiejętności danego modeli symulowania dynamiki zachowań grupowych (zjawisk emergentnych), jak i realistycznych zachowań w skali mikro
+* W celu ewaluacji i porówniania różnych modeli konieczne jest ujednolicenie kryteriów, co może być problematyczne dla różnych rodzajów modeli.
+* Autorzy review proponują ocenę umiejętności danego modeli symulowania dynamiki zachowań grupowych (zjawisk emergentnych), jak i realistycznych zachowań w skali mikro
 
 ### Podsumowanie - autorzy zalecają:
--gromadzenie większej ilości rzeczywistych danych
--zastosowanie metod uczenia maszynowego z nadzorem i bez w celu modelowania odpowiednich zachowań
--integrację wiedzy z zakresu psychologii społecznej w celu stworzenia bardziej ogólnych i realistycznych modeli m.in ewakuacji w sytuacjach awaryjnych
--branie pod uwagę złożoności obliczeniowej modeli
--stwierdzają również, że wykorzystanie głębokiego uczenia i obliczania równoległego jest wykonalne.
+* gromadzenie większej ilości rzeczywistych danych
+* zastosowanie metod uczenia maszynowego z nadzorem i bez w celu modelowania odpowiednich zachowań
+* integrację wiedzy z zakresu psychologii społecznej w celu stworzenia bardziej ogólnych i realistycznych modeli m.in ewakuacji w sytuacjach awaryjnych
+* branie pod uwagę złożoności obliczeniowej modeli
+* stwierdzają również, że wykorzystanie głębokiego uczenia i obliczania równoległego jest wykonalne.
 
 
 
