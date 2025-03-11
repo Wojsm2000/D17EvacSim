@@ -206,10 +206,15 @@ Artykuł autorstwa S. Yang et al z 2020 roku "A review on crowd simulation and m
 
 ### 1. Główne kategorie modeli symulacji tłumów
 a) Modele mikroskopowe:
+
       * oparte na regułach (Rule-based)
+      
       * oparte na sile (Force-based)
+      
       * oparte na prędkości (Velocity-based)
+      
       * agentowe (Agent-based)
+      
       * oparte na widzeniu (Vision-based)
       
 b) Modele makroskopowe
