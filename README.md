@@ -222,7 +222,8 @@ c) Modele mezoskopowe
       -Interaktywne formowanie grup (Interactive group formation)
       -Tłumy społeczno-psychologiczne (Social Psychological crowds)
 
-### Modele mikroskopowe (zwane też bottom-up) skupiają się na zachowaniach i cechach poszczególnych poszczególnych osób. W tym podejściu ludzie traktowani są jako dyskretne obiekty, na których zachowanie wpływają ich otoczenie i sąsiedzi.
+### Modele mikroskopowe (zwane też bottom-up) 
+-skupiają się na zachowaniach i cechach poszczególnych poszczególnych osób. W tym podejściu ludzie traktowani są jako dyskretne obiekty, na których zachowanie wpływają ich otoczenie i sąsiedzi.
 
 Do najważniejszych modeli w tej kategorii należą:
 -Social Force Model (SFM) Helbinga et al. z 2000 r. opisujący mechanizmy i dynamikę spanikowanego tłumu, próbującego się ewakuować. To pierwszy model, w którym fizyczne kryteria wykorzystane zostały do opisu mikroskopowego zbiorowiska ludzi. Na zachowanie poszczególnych osób w modelu wpływają zarówno czynniki społeczno-psychologiczne i fizyczne.
@@ -230,7 +231,8 @@ Do najważniejszych modeli w tej kategorii należą:
 -Wagoum et al. proposed an efficient crowd simulation for evacuation assistant integrated with cellular automata 
 
 
-###  W modelach makroskopowych tłumy są traktowane jako jednolity, ciągły byt, a ich ruch jest determinowany przez pola potencjału (potential fields) lub dynamikę płynów. Planowanie ścieżek tłumu oraz unikanie kolizji są zarządzane przez globalny solver. Modele te nie skupiają się na szczegółowych interakcjach, przez co każdy wirtualny agent nie uwzględnia interakcji na poziomie indywidualnym między sobą a środowiskiem.
+###  Modele makroskopowe
+-tłumy są traktowane jako jednolity, ciągły byt, a ich ruch jest determinowany przez pola potencjału (potential fields) lub dynamikę płynów. Planowanie ścieżek tłumu oraz unikanie kolizji są zarządzane przez globalny solver. Modele te nie skupiają się na szczegółowych interakcjach, przez co każdy wirtualny agent nie uwzględnia interakcji na poziomie indywidualnym między sobą a środowiskiem.
 -wykorzystywane głównie do efektów wizualnych dużych zbiorowisk ludzkich
 
 ### Modele mezoskopowe (symulacje grupowe) 
@@ -248,7 +250,7 @@ Do najważniejszych modeli w tej kategorii należą:
 -W celu ewaluacji i porówniania różnych modeli konieczne jest ujednolicenie kryteriów, co może być problematyczne dla różnych rodzajów modeli.
 -Autorzy review proponują ocenę umiejętności danego modeli symulowania dynamiki zachowań grupowych (zjawisk emergentnych), jak i realistycznych zachowań w skali mikro
 
-### Podsumowanie - Autorzy artykułu zalecają:
+### Podsumowanie - autorzy zalecają:
 -gromadzenie większej ilości rzeczywistych danych
 -zastosowanie metod uczenia maszynowego z nadzorem i bez w celu modelowania odpowiednich zachowań
 -integrację wiedzy z zakresu psychologii społecznej w celu stworzenia bardziej ogólnych i realistycznych modeli m.in ewakuacji w sytuacjach awaryjnych
