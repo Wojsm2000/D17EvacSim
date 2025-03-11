@@ -207,25 +207,31 @@ Artykuł autorstwa S. Yang et al z 2020 roku "A review on crowd simulation and m
 ### 1. Główne kategorie modeli symulacji tłumów
 a) Modele mikroskopowe:
 
-      * oparte na regułach (Rule-based)
+* oparte na regułach (Rule-based)
       
-      * oparte na sile (Force-based)
+* oparte na sile (Force-based)
       
-      * oparte na prędkości (Velocity-based)
+* oparte na prędkości (Velocity-based)
       
-      * agentowe (Agent-based)
+* agentowe (Agent-based)
       
-      * oparte na widzeniu (Vision-based)
+* oparte na widzeniu (Vision-based)
       
 b) Modele makroskopowe
-      -Modele continuum (Continuum models)
-      -Dynamika zbiorcza (Aggregate dynamics)
-      -oparte na polu potencjału (Potential field-based)
+
+* Modele continuum (Continuum models)
+  
+* Dynamika zbiorcza (Aggregate dynamics)
+  
+* oparte na polu potencjału (Potential field-based)
 
 c) Modele mezoskopowe
-      -Dynamiczne zachowania grupowe (Dynamic group behavior)
-      -Interaktywne formowanie grup (Interactive group formation)
-      -Tłumy społeczno-psychologiczne (Social Psychological crowds)
+
+* Dynamiczne zachowania grupowe (Dynamic group behavior)
+  
+* Interaktywne formowanie grup (Interactive group formation)
+  
+* Tłumy społeczno-psychologiczne (Social Psychological crowds)
 
 ### Modele mikroskopowe (zwane też bottom-up) 
 -skupiają się na zachowaniach i cechach poszczególnych poszczególnych osób. W tym podejściu ludzie traktowani są jako dyskretne obiekty, na których zachowanie wpływają ich otoczenie i sąsiedzi.
