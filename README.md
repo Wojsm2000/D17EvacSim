@@ -251,16 +251,15 @@ Do najważniejszych modeli w tej kategorii należą:
 * wykorzystywane głównie do efektów wizualnych dużych zbiorowisk ludzkich
 
 ### Modele mezoskopowe (symulacje grupowe) 
-* Simulation of small social group behaviors in emergency evacuation R. Xie et al. 2016 - model dynamic group behavior
-  
-*Social Psychological crowds nawiązują do teorii cech charakteru i zaraźliwości społecznej emocji
-*Wykorzystywane są różne modele cech osobowości i emocji, takie jak OCEAN, PEN, OCC (Ortony, Clore, Collins), PAD (Pleasure Arousal Dominance)
-*Model ESCAPES zawiera cztery kluczowe cechy (typ agenta, emocje, informacje, interakcje) w celu symulacji zjawisk psychologicznych w sytuacjach ewakuacji.
+* Simulation of small social group behaviors in emergency evacuation R. Xie et al. 2016 - model dynamic group behavior  
+* Social Psychological crowds nawiązują do teorii cech charakteru i zaraźliwości społecznej emocji
+* Wykorzystywane są różne modele cech osobowości i emocji, takie jak OCEAN, PEN, OCC (Ortony, Clore, Collins), PAD (Pleasure Arousal Dominance)
+* Model ESCAPES zawiera cztery kluczowe cechy (typ agenta, emocje, informacje, interakcje) w celu symulacji zjawisk psychologicznych w sytuacjach ewakuacji.
 (e.g. People forget theirentrance, First-time visitors, Heightened emotions, Herding behavior, Pre-evacuation delay, Families gather before exiting, Authorities calm people)
-*M. Xu et al. Crowd behavior simulation with emotional contagion in unexpected multihazard situations(2019)
-*Y. Mao et al. Emotion-based diversity crowd behavior simulation in public emergency (2018)
-*Y. Mao et al. Personality trait and group emotion contagion based crowd simulation for emergency evacuation (2018) 
-*G. Zhang, D. Lu, H. Liu, Strategies to utilize the positive emotional contagion optimally in crowd evacuation (2018)
+* M. Xu et al. Crowd behavior simulation with emotional contagion in unexpected multihazard situations(2019)
+* Y. Mao et al. Emotion-based diversity crowd behavior simulation in public emergency (2018)
+* Y. Mao et al. Personality trait and group emotion contagion based crowd simulation for emergency evacuation (2018) 
+* G. Zhang, D. Lu, H. Liu, Strategies to utilize the positive emotional contagion optimally in crowd evacuation (2018)
 
 ### Ewaluacja modeli
 * W celu ewaluacji i porówniania różnych modeli konieczne jest ujednolicenie kryteriów, co może być problematyczne dla różnych rodzajów modeli.
