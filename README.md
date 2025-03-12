@@ -238,8 +238,8 @@ Skupiają się na zachowaniach i cechach poszczególnych poszczególnych osób. 
 
 Do najważniejszych modeli w tej kategorii należą:
 * Social Force Model (SFM) Helbinga et al. z 2000 r. opisujący mechanizmy i dynamikę spanikowanego tłumu, próbującego się ewakuować. To pierwszy model, w którym fizyczne kryteria wykorzystane zostały do opisu mikroskopowego zbiorowiska ludzi. Na zachowanie poszczególnych osób w modelu wpływają zarówno czynniki społeczno-psychologiczne i fizyczne.  
-* High-density autonomous crowds (HiDAC) model Pelechano et al. z 2007 r. (model agentowy)  
-* Wagoum et al. proposed an efficient crowd simulation for evacuation assistant integrated with cellular automata 
+* High-density autonomous crowds (HiDAC) model Pelechano et al. z 2007 r. (model agentowy). 
+* Wagoum i in. zaproponowali wydajną symulację tłumu na potrzeby asystenta ewakuacji zintegrowaną z automatami komórkowymi. 
 
 
 ###  Modele makroskopowe
@@ -252,10 +252,10 @@ Do najważniejszych modeli w tej kategorii należą:
 * Wykorzystywane są różne modele cech osobowości i emocji, takie jak OCEAN, PEN, OCC (Ortony, Clore, Collins), PAD (Pleasure Arousal Dominance)
 * Model ESCAPES zawiera cztery kluczowe cechy (typ agenta, emocje, informacje, interakcje) w celu symulacji zjawisk psychologicznych w sytuacjach ewakuacji.
 (e.g. People forget theirentrance, First-time visitors, Heightened emotions, Herding behavior, Pre-evacuation delay, Families gather before exiting, Authorities calm people)
-* M. Xu et al. Crowd behavior simulation with emotional contagion in unexpected multihazard situations(2019)
-* Y. Mao et al. Emotion-based diversity crowd behavior simulation in public emergency (2018)
-* Y. Mao et al. Personality trait and group emotion contagion based crowd simulation for emergency evacuation (2018) 
-* G. Zhang, D. Lu, H. Liu, Strategies to utilize the positive emotional contagion optimally in crowd evacuation (2018)
+* M. Xu et al. _Crowd behavior simulation with emotional contagion in unexpected multihazard situations_(2019)
+* Y. Mao et al. _Emotion-based diversity crowd behavior simulation in public emergency_ (2018)
+* Y. Mao et al. _Personality trait and group emotion contagion based crowd simulation for emergency evacuation_ (2018) 
+* G. Zhang, D. Lu, H. Liu, _Strategies to utilize the positive emotional contagion optimally in crowd evacuation_ (2018)
 
 ### Ewaluacja modeli
 * W celu ewaluacji i porówniania różnych modeli konieczne jest ujednolicenie kryteriów, co może być problematyczne dla różnych rodzajów modeli.
@@ -303,7 +303,7 @@ Zmiana parametrów miały znaczący wpływ na uzyskane wyniki. Największy wpły
 
 Wedługg autorów badania ich model jest na tyle ogólny, że może być stosowany również do symulacji ewakuacji innych bydunków użyteczności publicznej. Zwracają jednak uwagę na ograniczenia ich modelu - nie wzięto pod uwagę cech psychofizycznych pojedynczych osób ani złożonych interakcji społecznych podczas ewakuacji.
 
-## Badanie przeglądające wspólczesną literaturę
+## Badanie przeglądające współczesną literaturę
 
 Praca Gayani P.D.P. Senanayake, Minh Kieu, Yang Zou, Kim Dirks (_Agent-based simulation for pedestrian evacuation: A systematic literature review_, 2024) przeprowadza systematyczny przegląd literatury dotyczącej modelowania ewakuacji pieszych z wykorzystaniem modeli opartych na agentach (ABM – Agent-Based Models). Autorzy analizują 134 badania z lat 2013–2023, aby ocenić obecny stan wiedzy, metodologie, praktyki walidacyjne oraz wyzwania związane z symulacjami ewakuacji. 
 
