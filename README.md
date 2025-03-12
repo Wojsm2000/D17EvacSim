@@ -303,9 +303,26 @@ Zmiana parametrów miały znaczący wpływ na uzyskane wyniki. Największy wpły
 
 Wedługg autorów badania ich model jest na tyle ogólny, że może być stosowany również do symulacji ewakuacji innych bydunków użyteczności publicznej. Zwracają jednak uwagę na ograniczenia ich modelu - nie wzięto pod uwagę cech psychofizycznych pojedynczych osób ani złożonych interakcji społecznych podczas ewakuacji.
 
+## Badanie przeglądające wspólczesną literaturę
+
+Praca Gayani P.D.P. Senanayake, Minh Kieu, Yang Zou, Kim Dirks (_Agent-based simulation for pedestrian evacuation: A systematic literature review_, 2024) przeprowadza systematyczny przegląd literatury dotyczącej modelowania ewakuacji pieszych z wykorzystaniem modeli opartych na agentach (ABM – Agent-Based Models). Autorzy analizują 134 badania z lat 2013–2023, aby ocenić obecny stan wiedzy, metodologie, praktyki walidacyjne oraz wyzwania związane z symulacjami ewakuacji. 
+
+### Główne postępy w symulacji ewakuacji
+
+* Integracja czynników behawioralnych: W ostatnich latach nastąpił znaczący postęp w modelowaniu zachowań pieszych podczas ewakuacji. Modele ABM coraz częściej uwzględniają czynniki psychologiczne, socjologiczne, demograficzne i środowiskowe, co pozwala na bardziej realistyczne symulacje.
+
+* Zastosowanie zaawansowanych technik obliczeniowych: Wykorzystanie technik uczenia maszynowego (ML), takich jak uczenie ze wzmocnieniem (RL) czy sieci neuronowe (NN), pozwala na lepsze modelowanie adaptacyjnych zachowań agentów. Techniki te umożliwiają agentom uczenie się na podstawie doświadczeń i dostosowywanie się do dynamicznych warunków ewakuacji.
+
+* Hybrydowe podejścia do modelowania: Coraz częściej stosowane są hybrydowe modele, które łączą ABM z innymi technikami, takimi jak automaty komórkowe (CA) czy modele sił społecznych (Social Force Models), co zwiększa realizm symulacji.
+
+### Wnioski badaczy 
+
+Mimo postępujących ulepszeń modeli autorzy pracy zwracają uwagę na małą elastyczość i brak empirycznego uzasadnienia modeli. Stosowane architektury i modele choć różnią się od siebie, często opierają się na uproszczonych regułach. Badacze widzą również problem w ogrniczeniu wydajności obliczeniowej oraz brak danych walidujących. Techniki walidacji opierały się głównie na ograniczonych eksperymentach w świecie rzeczywistym i osądzie ekspertów. Autorzy postulują również interdyscyplinarne podejście do tego rodzaju badań. Współpraca między naukowcami zajmującymi się modelowaniem, psychologią, naukami społecznymi i informatyką jest według nich kluczowa dla rozwoju bardziej realistycznych i użytecznych modeli ewakuacji. W przyszłości według autorów należy dążyć do standaryzacji metod walidacyjnych oraz udostępniania modeli i danych, aby umożliwić ich reprodukcję i porównanie.
 
 
-###
+
+
+
 
 
 
