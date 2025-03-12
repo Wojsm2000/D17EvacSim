@@ -234,7 +234,7 @@ c) Modele mezoskopowe
 * Tłumy społeczno-psychologiczne (Social Psychological crowds)
 
 ### Modele mikroskopowe (zwane też bottom-up) 
-Skupiają się na zachowaniach i cechach poszczególnych poszczególnych osób. W tym podejściu ludzie traktowani są jako dyskretne obiekty, na których zachowanie wpływają ich otoczenie i sąsiedzi.
+Skupiają się na zachowaniach i cechach poszczególnych poszczególnych osób. W tym podejściu ludzie traktowani są jako dyskretne obiekty, na których zachowanie wpływają ich otoczenie i sąsiedzi. Autorzy dużo uwagi poświecają kwestii unikania kolizji między obiektami.
 
 Do najważniejszych modeli w tej kategorii należą:
 * Social Force Model (SFM) Helbinga et al. z 2000 r. opisujący mechanizmy i dynamikę spanikowanego tłumu, próbującego się ewakuować. To pierwszy model, w którym fizyczne kryteria wykorzystane zostały do opisu mikroskopowego zbiorowiska ludzi. Na zachowanie poszczególnych osób w modelu wpływają zarówno czynniki społeczno-psychologiczne i fizyczne.  
