@@ -269,4 +269,43 @@ Do najważniejszych modeli w tej kategorii należą:
 * stwierdzają również, że wykorzystanie głębokiego uczenia i obliczania równoległego jest wykonalne.
 
 
+## Artykuł "Agent-Based Modelling and Simulation for evacuation of people from a building in case of fire" Selain Kasereka et al. z 2018 r.
+
+### Opis modelu
+
+Autorzy badania stworzyli model oparty na inteligentnych agentach w celu symulacji ewakuacji supermarketu w razie wystąpienia pożaru.
+
+Wyszczególnili cztery rodzaje agentów:
+* osoby ewakuujące sie (evacuees)
+* ogień
+* dym
+* alarm przeciwpożarowy
+
+Każdy z rodzajów agentów miał przyporządkowane możliwe stany, percepcje (na co zwraca uwagę w otoczeniu), działanie (pojedyncze) i zachowanie warunkowe ("kiedy coś się dzieje, powinien zrobić to").
+
+Wyszczególnione zostały założenia początkowe, dotyczące poszczególnych agentów. Jako model nawigacji użyto algorytmu najkrótszej drogi (Dijkstra).
+
+Do stworzenia modelu wykorzystali platformę GAMA i język  zorientowany agentowo programowownia GAML (GAma Modeling Language).
+
+### Symulacja - parametry
+
+Określone zostały cztery parametry służące do oceny kazdego scenariusza ewakuacji:
+* Liczba osób, która bezpiecznie opuściła budynek
+* Liczba ofiar
+* Średnia energia osób, które opuściły budynek
+* Średni czas potrzebny na ewakuację
+
+Przeprowadzono symulacje z różnymi parametrami dotyczącymi rozprzestrzeniania się ognia i dymu, prędkości ludzi, liczby wyjść ewakuacyjnych i innych. Dla każdego zestawu parametrów przeprowadzono po 100 symulacji, a wyniki uśredniono.
+
+### Symulacja - wyniki i podsumowanie
+
+Zmiana parametrów miały znaczący wpływ na uzyskane wyniki. Największy wpływ na liczbę ofiar miała prędkość i zasięg ognia i dymu oraz liczba wyjść ewakuacyjnych.
+
+Wedługg autorów badania ich model jest na tyle ogólny, że może być stosowany również do symulacji ewakuacji innych bydunków użyteczności publicznej. Zwracają jednak uwagę na ograniczenia ich modelu - nie wzięto pod uwagę cech psychofizycznych pojedynczych osób ani złożonych interakcji społecznych podczas ewakuacji.
+
+
+
+###
+
+
 
