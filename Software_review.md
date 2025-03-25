@@ -22,3 +22,5 @@ Vadere to w zasadzie trochę JDK, trochę taki wyklikiwacz symulacji i chyba jes
 
 
 ## JuPedSim
+
+Biblioteka ta w moim odczuciu wygląda trochę jak demo wersja **Cromosim'u**. Podstawowe elementy jak poruszanie się agentów , czy własna budowa pokoi jest zaimplemntowana ale nie udało mi się znaleźć informacji o klatkach schodowych więc pozostaje mi (nam) tylko założyć, że nie ma tam takiej możliwości po prostu. Do tego dość uboga dokumentacja mało co tłumacząca to duży minus w stosunku do Cromosimu.
