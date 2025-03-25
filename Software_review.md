@@ -14,7 +14,7 @@ Main new features of the Release 2.X of cromosim (mainly concerning microscopic 
 
 * during the initialization of groups of people, their radius and speed of movement can be defined with probability laws (normal or uniform). They are also assigned an initial destination
 
-Zdaje mi się, że jest to biblioteka dość złożona, chyba najbardziej złożona z trzech które udało mi się uruchomić ale daje największę możliwości. DUŻYM plusem jest to, że kod jest pisany w Pythonie.
+Zdaje mi się, że jest to biblioteka dość złożona, chyba najbardziej złożona z trzech które udało mi się uruchomić ale daje największe możliwości. DUŻYM plusem jest to, że kod jest pisany w Pythonie.
 
 ## Vadere
 
