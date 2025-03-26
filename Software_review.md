@@ -24,3 +24,27 @@ Vadere to w zasadzie trochę JDK, trochę taki wyklikiwacz symulacji i chyba jes
 ## JuPedSim
 
 Biblioteka ta w moim odczuciu wygląda trochę jak demo wersja **Cromosim'u**. Podstawowe elementy jak poruszanie się agentów , czy własna budowa pokoi jest zaimplemntowana ale nie udało mi się znaleźć informacji o klatkach schodowych więc pozostaje mi (nam) tylko założyć, że nie ma tam takiej możliwości po prostu. Do tego dość uboga dokumentacja mało co tłumacząca to duży minus w stosunku do Cromosimu.
+
+
+## AnyLogic Pedestrian Simulation Software
+
+Profesjonalny płatny software do szeregu zastosowań - symulacje ruchu pieszego, ewakuacji budynków, procesów biznesowych, testowania pojemności budynków. Dostępna jest darmowa wersja dla studentów i pracowników naukowych.
+
+Aplikacja posiada przyjazny graficzny interfejs, umożliwiający stworzenie modelu przepływy pieszych w fizycznym środowisku. Nie wymagana jest znajomość języków programowania, obsługa interfejsu wydaje się stosunkowo prosta i intuicyjna. Jednocześnie daje sporo możliwości, jeśli chodzi o modelowanie, m.in:
+
+* wielopiętrowe budynki, klatki schodowe i windy
+
+* możliwość wczytania planu budynku i "obrysowania" go w aplikacji
+
+* punkty obsługi i kolejki do nich
+
+* mapy gęstości
+
+Na stronie producenta dostępne są również tutoriale z tworzenia przykładowych modeli, np. wejścia do metra oraz przewodnik po dostępnych bibliotekach. 
+
+Możliwe są także zaawansowane opcje modelowania z wykorzystaniem języka Java
+
+
+## InControl Pedestrian Dynamics
+
+Kolejny płatny software. Dostępna jest 4-miesięczna darmowa wersja dla studentów, jednak wymaga podania danych opiekuna naukowego, więc na razie postanowiłem się wstrzymać.
