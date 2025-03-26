@@ -28,9 +28,9 @@ Biblioteka ta w moim odczuciu wygląda trochę jak demo wersja **Cromosim'u**. P
 
 ## AnyLogic Pedestrian Simulation Software
 
-Profesjonalny płatny software do szeregu zastosowań - symulacje ruchu pieszego, ewakuacji budynków, procesów biznesowych, testowania pojemności budynków. Dostępna jest darmowa wersja dla studentów i pracowników naukowych.
+Profesjonalny płatny software z szeregiem zastosowań - symulacje ruchu pieszego, ewakuacji budynków, procesów biznesowych, testowania pojemności budynków. Dostępna jest darmowa wersja dla studentów i pracowników naukowych.
 
-Aplikacja posiada przyjazny graficzny interfejs, umożliwiający stworzenie modelu przepływy pieszych w fizycznym środowisku. Nie wymagana jest znajomość języków programowania, obsługa interfejsu wydaje się stosunkowo prosta i intuicyjna. Jednocześnie daje sporo możliwości, jeśli chodzi o modelowanie, m.in:
+Aplikacja posiada przyjazny graficzny interfejs, umożliwiający stworzenie modelu przepływy pieszych w fizycznym środowisku. Nie wymagana jest znajomość języków programowania, obsługa interfejsu wydaje się stosunkowo prosta i intuicyjna. Jednocześnie daje sporo możliwości jeśli chodzi o modelowanie, m.in:
 
 * wielopiętrowe budynki, klatki schodowe i windy
 
@@ -38,13 +38,15 @@ Aplikacja posiada przyjazny graficzny interfejs, umożliwiający stworzenie mode
 
 * punkty obsługi i kolejki do nich
 
+* zachowania agentów o różnym prawdopodobieństwie
+
 * mapy gęstości
 
 Na stronie producenta dostępne są również tutoriale z tworzenia przykładowych modeli, np. wejścia do metra oraz przewodnik po dostępnych bibliotekach. 
 
-Możliwe są także zaawansowane opcje modelowania z wykorzystaniem języka Java
+Możliwe są także zaawansowane opcje modelowania z wykorzystaniem języka Java.
 
 
 ## InControl Pedestrian Dynamics
 
-Kolejny płatny software. Dostępna jest 4-miesięczna darmowa wersja dla studentów, jednak wymaga podania danych opiekuna naukowego, więc na razie postanowiłem się wstrzymać.
+Kolejny płatny software. Dostępna jest 4-miesięczna darmowa wersja dla studentów, jednak wymaga podania danych opiekuna naukowego, więc na razie się wstrzymałem.
